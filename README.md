@@ -49,3 +49,21 @@ https://www.youtube.com/@yumobuilds
 
 📄 Licence
 Free to use for personal and hobby projects. Credit appreciated — tag @yumobuilds if you build one!
+Copyright (c) 2026 Yumo Builds
+
+This project, including all code, schematics, and design files for the 
+YUMO SMART CUBE, is licensed under the Creative Commons 
+Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0).
+
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution: You must give appropriate credit to Yumo Builds, provide a link to the license, 
+  and indicate if changes were made.
+- NonCommercial: You may NOT use the material for commercial purposes or sell the software/design.
+- ShareAlike: If you remix, transform, or build upon the material, you must distribute your 
+  contributions under the same license as the original.
+
+To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc-sa/4.0/
