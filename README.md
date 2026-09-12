@@ -45,9 +45,12 @@ Battery ADC (GPIO 8, 3:1 voltage divider)
 📺 Watch the Build
 https://www.youtube.com/@yumobuilds
 
----
 
-📄 Licence
-Free to use for personal and hobby projects. Credit appreciated — tag @yumobuilds if you build one!
-Copyright (c) 2026 Yumo Builds
 
+## License
+
+This project's code is licensed under the [PolyForm Noncommercial 1.0.0](LICENSE) license — free for personal, non-commercial use.
+
+The physical enclosure design (brass body and box) is licensed under [CC BY-NC-SA 4.0](LICENSE-HARDWARE).
+
+Non-commercial use only. Commercial use, manufacturing, or selling this design or derivatives of it requires explicit permission from the author.
