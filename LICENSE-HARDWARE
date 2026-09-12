@@ -1,0 +1,24 @@
+# Hardware/Enclosure Design License
+
+Copyright (c) Yumo Builds (https://github.com/yumobuilds/Yumo-Smart-Cube)
+
+This license applies to the physical enclosure design (brass body and box design) included in this repository. It does NOT apply to the ESP32-S3 development board itself, which is a third-party product (Waveshare) and is not licensed by this project.
+
+## License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+### Summary (not a substitute for the full license)
+
+You are free to:
+- **Share** — copy and redistribute the design in any medium or format
+- **Adapt** — remix, transform, and build upon the design
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to Yumo Builds, provide a link to this repository, and indicate if changes were made.
+- **NonCommercial** — You may not use the design for commercial purposes, including manufacturing and selling this enclosure or a derivative of it, without explicit written permission from the licensor.
+- **ShareAlike** — If you remix, transform, or build upon the design, you must distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+The licensor (Yumo Builds) reserves the right to commercially produce and sell products based on this design.
